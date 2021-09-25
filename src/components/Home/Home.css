@@ -1,0 +1,6 @@
+.left-side{
+    border: 1px solid black;
+}
+body{
+    overflow-x: hidden;
+}

@@ -1,0 +1,12 @@
+.user-image img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-top: 5px;
+}
+
+.user-cart{
+    margin: 10px;
+    border: 1px solid lightgray;
+    padding: 10px;
+}
